@@ -1,2 +1,1 @@
-Udemy Course by Estefania [Learn Visual Studio Code (VSCode) - The Complete Guide](https://www.udemy.com/course/learn-visual-studio-code-vscode-course/)
-https://nutanix.udemy.com/course/learn-visual-studio-code-vscode-course/learn/lecture/32003438#content
+* [Learn Visual Studio Code (VSCode) - The Complete Guide](https://www.udemy.com/course/learn-visual-studio-code-vscode-course/) by Estefania (via Nutanix Udemy)
