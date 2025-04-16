@@ -76,7 +76,7 @@
     - every time the breakpoint is hit, the hit count will be incremented
     - when the hit count is reached, the debugger will stop
 
-* log point: log messages to the console, but do not stop
+* log point: log messages to the console, but do not pause the program
   - set breakpoint in glyph edge of editor
   - right click on the breakpoint and select `Edit Breakpoint` > log message
   - enter message to log
